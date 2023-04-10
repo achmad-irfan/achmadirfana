@@ -39,4 +39,4 @@
 &nbsp; <a href="mailto:achmad.irfan1@yahoo.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/yahoo.png"  width="50" /></a>
 </p>
 
-⭐️ From [Achmad Irfan Afandi](https://github.com/achmadirfana
+⭐️ From [Achmad Irfan Afandi](https://github.com/achmadirfana)
