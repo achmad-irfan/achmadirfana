@@ -13,7 +13,7 @@
 <h3>🛠 Skill</h3>
 
 - 💻 &nbsp; Python | Microsoft Power BI |  
-- 🛢 &nbsp; MySQL | Postgresql | 
+- 🛢 &nbsp; MySQL | Postgresql | Tableau
 - 🖥 &nbsp; Microsoft Excel | Google Sheet |
 
 
